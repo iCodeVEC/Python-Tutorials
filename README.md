@@ -1,2 +1,7 @@
 # Python-Tutorials
-Started 30/01/17
+
+
+## Environment Setup
+
+Download from this [link](https://github.com/iCodeVEC/Python-Tutorials/edit/master/README.md) & install
+
