@@ -5,7 +5,7 @@
 
 Download from this [link](https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi) & install
 
-If the above link is not working then try this [link](https://github.com/iCodeVEC/Python-Tutorials/blob/master/install.msi?raw=true)
+If the above link is not working then try this [link](https://github.com/iCodeVEC/Python-Tutorials/blob/master/install.msi?raw=true) or try [online](https://www.tutorialspoint.com/execute_python_online.php)
 
 Open the **Python GUI (IDLE)**
 
